@@ -1,2 +1,2 @@
 # Mini Photoshop
-- mini photoshop that you can add the pics you want
+- mini photoshop that you can edit the pic you want
